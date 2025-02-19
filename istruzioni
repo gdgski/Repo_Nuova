@@ -1,0 +1,5 @@
+print("Goodevening")
+for i in range(10)
+  print(i)
+lista_vuota = []
+print(lista_vuota)
