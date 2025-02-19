@@ -1,3 +1,6 @@
 print("Ecco il file main")
 print("Ecco la prima istruzione")
 print("Ecco la seconda istruzione")
+print("Ecco la nuova istruzione 1")
+print("Ecco la nuova istruzione 2")
+print("Ecco la nuova istruzione 3")
